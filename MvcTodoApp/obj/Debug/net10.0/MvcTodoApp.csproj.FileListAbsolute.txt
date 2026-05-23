@@ -95,3 +95,4 @@ C:\Users\Taher\Desktop\MvcTodoApp\MvcTodoApp\obj\Debug\net10.0\refint\MvcTodoApp
 C:\Users\Taher\Desktop\MvcTodoApp\MvcTodoApp\obj\Debug\net10.0\MvcTodoApp.pdb
 C:\Users\Taher\Desktop\MvcTodoApp\MvcTodoApp\obj\Debug\net10.0\MvcTodoApp.genruntimeconfig.cache
 C:\Users\Taher\Desktop\MvcTodoApp\MvcTodoApp\obj\Debug\net10.0\ref\MvcTodoApp.dll
+C:\Users\Taher\Desktop\MvcTodoApp\MvcTodoApp\obj\Debug\net10.0\MvcTodoApp.sourcelink.json
